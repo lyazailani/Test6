@@ -266,8 +266,8 @@ button {
 }
 
 .part {
-    font-size: 50px;
-    background: #000000;
+    font-size: 20px;
+    background: #363636;
     max-width: 204px;
     width: 55px;
     transition: ease-in all 0.5s;
@@ -682,7 +682,7 @@ button {
 }
 
 #request *::placeholder {
-    color: #d0d0cf;
+    color: #000000;
     opacity: 1;
 }
 
