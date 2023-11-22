@@ -266,8 +266,8 @@ button {
 }
 
 .part {
-    font-size: 20px;
-    background: #363636;
+    font-size: 50px;
+    background: #000000;
     max-width: 204px;
     width: 55px;
     transition: ease-in all 0.5s;
